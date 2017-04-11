@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convert It All</string>
+    <string name="octal_to_binary">Octal to Binary</string>
+    <string name="hex_to_binary">Hex to Binary</string>
+    <string name="dec_to_binary">Decimal to Binary</string>
+    <string name="title_activity_dec_to_binary">DecToBinary</string>
+</resources>
